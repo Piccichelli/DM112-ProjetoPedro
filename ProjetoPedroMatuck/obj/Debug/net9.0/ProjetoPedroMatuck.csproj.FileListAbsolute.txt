@@ -1,0 +1,14 @@
+C:\Users\pedro\Desktop\ProjetoPedroMatuck\bin\Debug\net9.0\ProjetoPedroMatuck.exe
+C:\Users\pedro\Desktop\ProjetoPedroMatuck\bin\Debug\net9.0\ProjetoPedroMatuck.deps.json
+C:\Users\pedro\Desktop\ProjetoPedroMatuck\bin\Debug\net9.0\ProjetoPedroMatuck.runtimeconfig.json
+C:\Users\pedro\Desktop\ProjetoPedroMatuck\bin\Debug\net9.0\ProjetoPedroMatuck.dll
+C:\Users\pedro\Desktop\ProjetoPedroMatuck\bin\Debug\net9.0\ProjetoPedroMatuck.pdb
+C:\Users\pedro\Desktop\ProjetoPedroMatuck\obj\Debug\net9.0\ProjetoPedroMatuck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\ProjetoPedroMatuck\obj\Debug\net9.0\ProjetoPedroMatuck.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\ProjetoPedroMatuck\obj\Debug\net9.0\ProjetoPedroMatuck.AssemblyInfo.cs
+C:\Users\pedro\Desktop\ProjetoPedroMatuck\obj\Debug\net9.0\ProjetoPedroMatuck.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\ProjetoPedroMatuck\obj\Debug\net9.0\ProjetoPedroMatuck.dll
+C:\Users\pedro\Desktop\ProjetoPedroMatuck\obj\Debug\net9.0\refint\ProjetoPedroMatuck.dll
+C:\Users\pedro\Desktop\ProjetoPedroMatuck\obj\Debug\net9.0\ProjetoPedroMatuck.pdb
+C:\Users\pedro\Desktop\ProjetoPedroMatuck\obj\Debug\net9.0\ProjetoPedroMatuck.genruntimeconfig.cache
+C:\Users\pedro\Desktop\ProjetoPedroMatuck\obj\Debug\net9.0\ref\ProjetoPedroMatuck.dll
